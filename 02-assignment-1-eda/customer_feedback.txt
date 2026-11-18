@@ -1,0 +1,5 @@
+C101|Excellent service
+C102|Delivery was late
+C103|Very good shopping experience
+C104|Excellent product quality
+C105|Delivery was delayed

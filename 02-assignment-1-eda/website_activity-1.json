@@ -1,0 +1,27 @@
+[
+    {
+        "customer_id": "C101",
+        "login_count": 25,
+        "pages_viewed": 180
+    },
+    {
+        "customer_id": "C102",
+        "login_count": 12,
+        "pages_viewed": 75
+    },
+    {
+        "customer_id": "C103",
+        "login_count": 30,
+        "pages_viewed": 240
+    },
+    {
+        "customer_id": "C104",
+        "login_count": 40,
+        "pages_viewed": 350
+    },
+    {
+        "customer_id": "C105",
+        "login_count": 8,
+        "pages_viewed": 45
+    }
+]
